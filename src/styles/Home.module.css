@@ -10,6 +10,8 @@
   text-transform: uppercase;
   color: var(--bg);
   text-align: center;
+
+  
 }
 
 .product {
@@ -34,6 +36,9 @@
   color: var(--light);
   max-width: 500px;
   margin: 10px 0 24px 0;
+
+
+
 }
 
 .image {

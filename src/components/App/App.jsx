@@ -22,14 +22,11 @@ const App = () => {
 
     return <div className='app'>
         <Header/>
-
         <UserForm/>
-
         <div className='container'>
             <Sidebar/>
             <AppRoutes/>
         </div>
-
         <Footer/>
     </div>
 }

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+import Skeleton, { SkeletonTheme } from 'react-loading-skeleton';
 import styles from '../../styles/Products.module.css'
 
 

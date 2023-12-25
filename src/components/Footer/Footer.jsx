@@ -15,7 +15,7 @@ const Footer = () => (
         </div>
 
         <div className={styles.rights}>
-            Developed by
+            Developed by nstk
         </div>
     </section>
 )
